@@ -1,5 +1,6 @@
 # Dictionary-App
 Welcome to a Simple Dictionary App! This is a lightweight dictionary application built using HTML, CSS, and JavaScript.
+https://himanipanwar78.github.io/Dictionary-App/
 
 # Features
 Word Lookup: Enter a word to find its definition.
